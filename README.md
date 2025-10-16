@@ -52,7 +52,6 @@ Tabulation for Open Circuit Test
 <img width="1280" height="1002" alt="image" src="https://github.com/user-attachments/assets/a1a4f104-ccfc-4518-a440-a8b1b2f887e7" />
 <img width="1260" height="1047" alt="image" src="https://github.com/user-attachments/assets/301a3775-3aff-408b-8d42-efefbb5f4250" />
 <img width="1278" height="1021" alt="image" src="https://github.com/user-attachments/assets/617dc054-6add-433b-b67e-91467678dbce" />
-<img width="1120" height="877" alt="image" src="https://github.com/user-attachments/assets/19c01415-f631-422a-b7ed-02099f483f44" />
 <img width="1120" height="877" alt="image" src="https://github.com/user-attachments/assets/7ec0cef1-2a3f-40f1-8af2-5b70890a8601" />
 
 
